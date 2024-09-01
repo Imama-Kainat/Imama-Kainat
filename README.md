@@ -5,10 +5,10 @@
 # 👋 Hi, I’m Imama Kainat
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-blue" alt="Software Engineer Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Scientist-green" alt="Data Scientist Badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-yellow" alt="Machine Learning Enthusiast Badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Educator-purple" alt="Tech Educator Badge"/>
+  <img src="https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge" alt="Software Engineer Badge"/>
+  <img src="https://img.shields.io/badge/Data%20Scientist-green?style=for-the-badge" alt="Data Scientist Badge"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-yellow?style=for-the-badge" alt="Machine Learning Enthusiast Badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Educator-purple?style=for-the-badge" alt="Tech Educator Badge"/>
 </p>
 
 I'm a passionate Software Engineering student with a deep love for Data Science, Machine Learning, and Web Development. My journey in technology is fueled by curiosity and a drive to create data-driven solutions that make a positive impact.
