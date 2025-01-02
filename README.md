@@ -1,63 +1,20 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/987654/141868342-a9f6bb0f-e543-49f3-83b8-d16a2d7ab460.gif" alt="Hello, I'm Imama Kainat" width="600"/>
+<h1 align="center">Hi 👋, I'm Imama Kainat</h1>
+<h3 align="center">A passionate python developer from Pakistan</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imama-kainat&label=Profile%20views&color=0e75b6&style=flat" alt="imama-kainat" /> </p>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👯 I’m looking to collaborate on **Python | Machine Learning projects**
+
+- 📫 How to reach me **imamakainat9@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imama-kainat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/imama-kainat/" height="30" width="40" /></a>
 </p>
 
-# 👋 Hi, I’m Imama Kainat
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-blue" alt="Software Engineer Badge"/>
-  <img src="https://img.shields.io/badge/Data%20Scientist-green" alt="Data Scientist Badge"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning%20Enthusiast-yellow" alt="Machine Learning Enthusiast Badge"/>
-  <img src="https://img.shields.io/badge/Tech%20Educator-purple" alt="Tech Educator Badge"/>
-</p>
-
-I'm a passionate Software Engineering student with a deep love for Data Science, Machine Learning, and Web Development. My journey in technology is fueled by curiosity and a drive to create data-driven solutions that make a positive impact.
-
-## 👀 I’m Interested In
-- **Data Science & Machine Learning**: Exploring new ways to analyze data and build predictive models.
-- **Software Development**: Crafting efficient and scalable software solutions.
-- **Web Development**: Designing and developing user-friendly web applications.
-- **Open Source Contribution**: Collaborating on open-source projects that have a meaningful impact.
-- **Tech Education**: Sharing knowledge through teaching and mentoring.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/987654/141868544-8b8c3c90-ff6c-4ea4-b0b7-5c4f8e53e2a5.gif" alt="Coding Gif" width="500"/>
-</p>
-
-## 🌱 I’m Currently Learning
-- Advanced Machine Learning techniques with TensorFlow and PyTorch.
-- Building AI-powered applications with OpenCV.
-- Exploring Natural Language Processing (NLP) for language models.
-- Enhancing my skills in multi-paradigm programming languages.
-
-## 💞️ I’m Looking to Collaborate On
-- **AI & ML Projects**: Let's create something impactful using AI and Machine Learning.
-- **Web Applications**: Collaborate on web projects, especially those that merge data science with web development.
-- **Open Source Initiatives**: I'm eager to contribute to open-source projects that align with my interests.
-- **Tech Education Platforms**: Helping others learn and grow in the field of technology.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/987654/141868678-61e2b838-71ad-48b8-8ccf-86b7e1efc56b.gif" alt="Collaboration Gif" width="500"/>
-</p>
-
-## 📫 How to Reach Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/imama-kainat/"><img src="https://img.shields.io/badge/LinkedIn-Imama%20Kainat-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge"/></a>
-  <a href="mailto:imamkainat@gmail.com"><img src="https://img.shields.io/badge/Email-imamkainat%40gmail.com-red?logo=gmail&style=for-the-badge" alt="Email Badge"/></a>
-  <a href="https://twitter.com/ImamaKainat"><img src="https://img.shields.io/badge/Twitter-@ImamaKainat-blue?logo=twitter&style=for-the-badge" alt="Twitter Badge"/></a>
-</p>
-
-## 😄 Pronouns
-- She/Her
-
-## ⚡ Fun Fact
-I co-founded the Career Connect Society, where I guide students towards better career paths. I'm also a giant CS nerd who loves exploring new technologies and building meaningful projects. When I'm not coding, you can find me mentoring students or working on my YouTube channel where I share programming tutorials.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/987654/141868780-9f8c90ef-e0c6-4a91-8820-38a19d33f1cf.gif" alt="Tech Gif" width="500"/>
-</p>
-
-<!---
-Imama-Kainat/Imama-Kainat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imama-kainat&" alt="imama-kainat" /></p>
