@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Imama Kainat</h1>
 
 
-## SHE’s in a SERIOUS relationship with her LAPTOP. 
+## I am in a SERIOUS relationship with  my LAPTOP. 
 
 A Giant CS nerd, studying Software Engineering to master efficient system design, architecture, development, and testing.
 
