@@ -1,9 +1,25 @@
 <h1 align="center">Hi 👋, I'm Imama Kainat</h1>
-<h3 align="center">A passionate python developer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Python | Machine Learning projects**
+## SHE’s in a SERIOUS relationship with her LAPTOP. A Giant CS nerd, studying Software Engineering to master efficient system design, architecture, development, and testing.
+
+✨ I’m a **CREATOR** who builds products through code.
+
+To me, a **software engineer** isn’t just someone skilled in one tech stack. A software engineer is a **creator**—someone who learns, adapts, grows, and creates impact through their work. I find joy in solving problems on **LEETCODE**🧩, and nothing feels better than building a product after a **HAKCATHON**.🏆
+
+I’m always working to learn new tech stacks faster. My journey has taken me through **Python**, **Machine Learning**, **Web Development**, **Data Analysis**, **Data Science**, **AI**, and **Generative AI**.
+
+But it’s not just about CODE. I’m also **PASSIONATE** about:
+
+- **Public Speaking** 🗣️
+- **Community Building** 🤝
+- **Mentoring Tech Students** 👩‍💻
+- **Leading Teams and Managing Projects** (People say I’m REALLY good at it :D)
+
+And yes, **Python is CUTE**, isn’t it? 🐍
+
+## Let’s team up for some **global projects**, **collaborations**, and **HACKATHONS**! 💥 The world is waiting!
+
 
 - 📫 How to reach me **imamakainat9@gmail.com**
 
