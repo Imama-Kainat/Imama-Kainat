@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imama Kainat</h1>
+
 
 
 ## I am in a SERIOUS relationship with  my LAPTOP. 
