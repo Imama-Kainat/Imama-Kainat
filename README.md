@@ -23,7 +23,7 @@ And yes, **Python is CUTE**, isn’t it? 🐍
 ## Let’s team up for some **global projects**, **collaborations**, and **HACKATHONS**! 💥 The world is waiting!
 
 
-- 📫 How to reach me **imamakainat9@gmail.com**
+- 📫 How to Reach me **imamakainat9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
