@@ -1,7 +1,7 @@
 
 
 
-## I am in a SERIOUS relationship with  my LAPTOP. 
+## I am in a SERIOUS relationship with  my LAPTOP
 
 A Giant CS nerd, studying Software Engineering to master efficient system design, architecture, development, and testing.
 
