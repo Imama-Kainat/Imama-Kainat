@@ -5,7 +5,7 @@
 
 A Giant CS nerd, studying Software Engineering to master efficient system design, architecture, development, and testing.
 
-✨ I’m a **CREATOR** who builds products through Code.
+✨ I’m a **CREATOR** who builds products through Code
 
 To me, a **software engineer** isn’t just someone skilled in one tech stack. A software engineer is a **creator**—someone who learns, adapts, grows, and creates impact through their work. I find joy in solving problems on **LEETCODE**🧩, and nothing feels better than building a product after a **HAKCATHON**.🏆
 
