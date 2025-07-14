@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzNpanRzNnk2a3g2ZTc1eHBseDIwZnRqMGwzYmg5bGIwcm5qd3ZyNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" alt="Laptop love gif" width="800"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDd4cml3OXp3eTB6ZWpwbXFmNTB2eGFmbXZpc29nZHN6ZHR3ZTFvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9FvN85CcQU9fW/giphy.gif" alt="Laptop love gif" width="800"/>
 </p>
 
 ## I am in a SERIOUS relationship with my LAPTOP 💻❤️
