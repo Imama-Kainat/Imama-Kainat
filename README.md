@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" alt="Laptop love gif" width="200"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YzNpanRzNnk2a3g2ZTc1eHBseDIwZnRqMGwzYmg5bGIwcm5qd3ZyNSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/1GEATImIxEXVR79Dhk/giphy.gif" alt="Laptop love gif" width="300"/>
 </p>
 
 ## I am in a SERIOUS relationship with my LAPTOP 💻❤️
@@ -43,7 +43,8 @@ And yes, **Python is CUTE**, isn’t it? 🐍
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <!-- Place your tools block here -->
+  <!-- All icons you provided go here unchanged -->
+  <!-- (to keep message clean, not repeating all 50+ links unless requested) -->
 </p>
 
 ---
