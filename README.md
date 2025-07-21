@@ -4,61 +4,81 @@
 
 <h1 align="center">💻 I’m in a SERIOUS relationship with my Laptop 💘</h1>
 
-<p align="center">A Giant CS Nerd | Python 🐍 + AI 🧠 + Web Dev 🌐 | LeetCode Addict 🧩 | Hackathon Warrior 🏆</p>
+<p align="center">
+  🚀 Giant CS Nerd | 🐍 Python + 🧠 AI + 🌐 Web Dev | 🧩 LeetCode Addict | 🏆 Hackathon Warrior
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-Hey! I’m **Imama Kainat**, a passionate **Software Engineering** student who believes **code is poetry**, and I'm writing my best lines every day.
+Hey there! I'm **Imama Kainat** — a curious & creative **Software Engineering student** who believes code is not just syntax... it's *art* 🎨.
 
-🔧 I’m a **CREATOR** — not just a coder. I design, build, test, and deploy systems that *solve real problems*.
+🔧 **I'm a builder**, not just a coder. From solving algorithmic puzzles to launching AI-driven apps, I’m obsessed with crafting tech that **actually matters**.
 
-✨ You’ll often find me:
-- Crushing bugs & problems on **LeetCode**
-- Winning **Hackathons** with cool product ideas
-- Learning & shipping projects with **Python, ML, AI, Web & Generative AI**
+🌟 *"Think Big. Build Fast. Learn Always."*
 
 ---
 
-## 🔥 What I Love
-- 🧠 Solving puzzles & cracking system designs
-- 🗣️ Public Speaking & Community Events
-- 🤝 Mentoring & Guiding Tech Students
-- 🧭 Leading Projects & Managing Teams
-- 🐍 Yes, I think Python is CUTE
+## ⚡ What Makes Me Tick
+
+- 🧠 Cracking puzzles & designing scalable systems
+- 💬 Hosting tech talks & building communities
+- 🌱 Always learning (currently exploring Generative AI & Deep Learning)
+- 👩‍🏫 Mentoring juniors & empowering students in tech
+- 🧍‍♀️ Leading teams with empathy & energy
 
 ---
 
-## 🌍 Let’s Collaborate!
-Hackathons | Open Source | AI Projects | Startups
+## 🛠️ Tech Stack
 
-📬 **Reach me at:** [imamakainat9@gmail.com](mailto:imamakainat9@gmail.com)
-
----
-
-## 🔗 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/imama-kainat/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@mamainataki" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 </p>
 
 ---
 
-## ⚒️ Languages & Tools
+## 🚀 Currently Working On
+
+- 👁️‍🗨️ A **real-time interview proctoring app** (eye movement + face detection)
+- 🍲 A **Recipe Generator app** using AI + Firebase
+- 🧠 Training ML models for **crime pattern detection**
+- 🤖 GenAI tools to summarize meetings and suggest replies
+
+---
+
+## 🧩 Fun Facts
+
+- 🧭 I founded **Career Connect Society** to help students find direction
+- 🏁 I’m addicted to **hackathons** & high-pressure coding sprints
+- 📚 I learn by **doing**, not just reading
+- 🐍 I *really* think Python has a personality
+
+---
+
+## 📬 Let’s Build Together!
+
+💡 Open Source | 🤝 AI Collabs | 🎓 Mentorship | 🚀 Startups  
+📫 [imamakainat9@gmail.com](mailto:imamakainat9@gmail.com)
+
+---
+
+## 🌐 Find Me Online
+
 <p align="left">
-  <!-- Add your favorite tools here as icons -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/imama-kainat/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" /></a>
+  <a href="https://www.youtube.com/@mamainataki" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="35" /></a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imama-kainat&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imama-kainat&theme=radical" alt="GitHub Streak" />
