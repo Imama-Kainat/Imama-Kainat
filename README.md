@@ -16,7 +16,7 @@ Hey there! I'm **Imama Kainat** — a curious & creative **Software Engineering 
 
 🔧 **I'm a builder**, not just a coder. From solving algorithmic puzzles to launching AI-driven apps, I’m obsessed with crafting tech that **actually matters**.
 
-🌟 *"Think Big. Build Fast. Learn Always"*
+🌟 *"Think Big. Build Fast.Learn Always"*
 
 ---
 
