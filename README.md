@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-Hey there! I'm **Imama Kainat** — a curious & creative **Software Engineering student** who believes code is not just syntax... it's *art* 🎨.
+Hey there! I'm **Imama Kainat** — a curious & creative **Software Engineering student** who believes code is not just syntax.... it's *art* 🎨.
 
 🔧 **I'm a builder**, not just a coder. From solving algorithmic puzzles to launching AI-driven apps, I’m obsessed with crafting tech that **actually matters**.
 
