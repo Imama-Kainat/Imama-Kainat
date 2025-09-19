@@ -5,7 +5,7 @@
 <h1 align="center">💻 I’m in a SERIOUS relationship with my Laptop 💘</h1>
 
 <p align="center">
-  🚀 Giant CS Nerd | 🐍 Python + 🧠 AI + 🌐 Web Dev | 🧩 LeetCode Addict | 🏆Hackathon Warrior
+  🚀 Giant CS Nerd | 🐍 Python + 🧠 AI + 🌐 Web Dev | 🧩 LeetCode Addict | 🏆Hackathon Warrior |
 </p>
 
 ---
