@@ -4,7 +4,7 @@
 
 ### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • AI Engineer*
 <p align="center">
-  <img src="https://pin.it/18sQnMyFI" />
+  <img src="https://i.pinimg.com/1200x/c3/e2/11/c3e2112946bd4e6b597110d1d7afddaa.jpg" />
 </p>
 
 <p align="center">
