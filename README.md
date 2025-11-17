@@ -4,21 +4,7 @@
 
 ### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • AI Engineer*
 
-<p align="center">
-  <!-- Pinterest Embed -->
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=14496030046033902" height="473" width="236" frameborder="0" scrolling="no"></iframe>
-</p>
-
-<p align="center">
-  <!-- Images -->
-  <img width="728" height="1148" alt="Image 1" src="https://github.com/user-attachments/assets/f28fd1fe-a634-4d38-b497-3e824fda73cf" />
-  <img width="728" height="1148" alt="Image 2" src="https://github.com/user-attachments/assets/a3a661a5-c4b8-49ee-bb5e-61c869078330" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=C77DFF&center=true&width=900&lines=Software+Engineer+%7C+AI%2FML+Developer;Stanford+Section+Leader+2025;Building+AI+that+Matters;Elegant+Code.+Real+Impact." />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpkYnl0ZGVpeDlkMjNudmY3c3Zqcm96cDF4YzRoa25qaHV0dWFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Laptop love gif" width="800"/> </p>
 
 ---
 
