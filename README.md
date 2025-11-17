@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpkYnl0ZGVpeDlkMjNudmY3c3Zqcm96cDF4YzRoa25qaHV0dWFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Laptop love gif" width="800"/>
-</p>
-
 
 
 # 🌌 **Imama Kainat — AI Engineer & Software Developer**
@@ -16,8 +12,8 @@
 
 # **About Me**
 
-I’m **Imama Kainat**, a Software Engineer passionate about building systems that blend **AI engineering, research, and purposeful design**.
-I focus on solving meaningful real-world problems with clean, scalable, and impactful technology.
+I’m **Imama Kainat**, a Software Engineer focused on building systems that combine **AI engineering, research, and purposeful design**.
+I enjoy solving meaningful real-world problems through intelligent, scalable, and beautifully structured technology.
 
 🔗 **Portfolio:** [https://imamakainatportfolio.vercel.app/](https://imamakainatportfolio.vercel.app/)
 
@@ -30,9 +26,9 @@ I focus on solving meaningful real-world problems with clean, scalable, and impa
 * Team Lead Finalist — *NASA Space Apps Challenge*
 * Ambassador — *Google Women Techmakers*
 * Lead — *Google Developer Group on Campus*
-* Winner — *GPT-5 International Hackathon*
+* Winner — *GPT-5 International Hackathon (Lablab)*
 * Best Project Award — *FemCodes Project Lab 2024*
-* Top 200 Worldwide — *MIT Programming Contest*
+* Top 200 — *MIT Programming Contest*
 
 ---
 
@@ -48,33 +44,62 @@ I focus on solving meaningful real-world problems with clean, scalable, and impa
 
 ### **DoctorPath AI — Oncology Decision Support**
 
-Biomedical LLM + Graph-RAG system built with PyTorch, HuggingFace, and Neo4j for personalized cancer treatment support.
+Biomedical LLM + Graph-RAG + Neo4j pipeline for personalized cancer treatment recommendations.
 
 ### **Rebar Counter (Award Winning)**
 
-Computer vision pipeline that auto-counts rebars for an international client — awarded *Best Industry Project 2024*.
+Computer vision system for automated steel rebar counting; awarded *Best Industry Project 2024*.
 
 ### **MIT SuperCloud Analytics**
 
-Analyzed 2TB+ SLURM logs using Markov Chains, HMMs, and queueing theory; delivered a complete Streamlit GPU dashboard.
+Markov Chains, HMMs, queueing theory + 2TB SLURM data → Interactive Streamlit GPU dashboard.
 
 ### **Research Paper Analyzer**
 
-Automated NLP + embeddings pipeline that reduces research review time by 60%.
+PDF → NLP → embeddings pipeline automating structured extraction; reduced manual review by 60%.
 
 ### **Noor-Al-Eman App**
 
-Full MERN app with Qur’an reader, Ramadan tools, real-time chat, APIs, and 500+ hadiths/duas stored in MongoDB.
+MERN + 3 APIs + 500+ hadiths/duas with real-time chat, notifications & Islamic utilities suite.
 
 ---
 
-# **Leadership & Teaching**
+# **Open Source Contributions**
 
-* Teaching Assistant at FAST — 200+ students
-* Generative AI Mentor (PEC) — 500+ participants
-* Founder, Career Connect Society — 1500+ students
-* Speaker at Google, Microsoft, GDG, MLSA
-* Instructor at ICodeGuru — taught 13,000+ students
+* Built ML, data annotation, and automation utilities used by student devs globally
+* Published open-source full-stack and Python projects for community learning
+* Released educational materials & starter kits on GitHub (Python, MERN, AI)
+
+> *(If you want, I can add direct repo links + badges.)*
+
+---
+
+# **Hackathon Journey**
+
+* 🏆 Winner — *GPT-5 International Hackathon*
+* 🚀 Finalist — *NASA Space Apps Challenge*
+* ⚡ Participant — MIT, Meta Hacker Cup, UC Berkeley AI sprints
+* 💡 Built 10+ hackathon-ready AI/ML applications in rapid cycles
+* 👩‍💻 Mentored junior teams during local & international hackathons
+
+---
+
+# **Leadership**
+
+* Lead — Google Developer Group on Campus
+* Founder & President — Career Connect Society *(impacted 1500+ students)*
+* Organized 50+ events: hackathons, workshops, tech seminars
+* Speaker at Google, Microsoft, GDG, MLSA & universities across Pakistan
+
+---
+
+# **Mentoring & Teaching**
+
+* Teaching Assistant (FAST) — taught **200+ students**
+* Generative AI Mentor (PEC) — trained **500+ participants**
+* Instructor @ ICodeGuru — taught **13,000+ students**
+* Section Leader @ Stanford — mentored students from **11+ countries**
+* Designed coding challenges + problem-solving workshops
 
 ---
 
@@ -100,7 +125,6 @@ Full MERN app with Qur’an reader, Ramadan tools, real-time chat, APIs, and 500
   <a href="https://github.com/Imama-Kainat"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/@mamainataki"><img src="https://img.shields.io/badge/YouTube-3C096C?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
-
 
 
 
