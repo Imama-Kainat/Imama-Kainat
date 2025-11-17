@@ -2,85 +2,105 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpkYnl0ZGVpeDlkMjNudmY3c3Zqcm96cDF4YzRoa25qaHV0dWFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Laptop love gif" width="800"/>
 </p>
 
-<h1 align="center">💻 I’m in a SERIOUS relationship with my Laptop 💘</h1>
+
+
+# 🌌 **Imama Kainat — AI Engineer & Software Developer**
+
+### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • ML Engineer*
 
 <p align="center">
-  🚀 Giant CS Nerd | 🐍 Python + 🧠 AI + 🌐 Web Dev | 🧩 LeetCode Addict | 🏆Hackathon Warrior
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=C77DFF&center=true&width=900&lines=Software+Engineer+%7C+AI%2FML+Developer;Stanford+Section+Leader+2025;Building+AI+that+Matters;Elegant+Code.+Real+Impact." />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# **About Me**
 
-Hey there! I'm **Imama Kainat**  a curious & creative **Software Engineering student** who believes code is not just syntax... it's *art* 🎨.
+I’m **Imama Kainat**, a Software Engineer passionate about building systems that blend **AI engineering, research, and purposeful design**.
+I focus on solving meaningful real-world problems with clean, scalable, and impactful technology.
 
-🔧 **I'm a builder**, not just a coder. From solving algorithmic puzzles to launching AI-driven apps, I’m obsessed with crafting tech that **actually matters**.
-
-🌟 *"Think Big. Build Fast.Learn Always"*
-
----
-
-## ⚡ What Makes Me Tick
-
-- 🧠 Cracking puzzles & designing scalable systems
-- 💬 Hosting tech talks & building communities
-- 🌱 Always learning (currently exploring Generative AI & Deep Learning)
-- 👩‍🏫 Mentoring juniors & empowering students in tech
-- 🧍‍♀️ Leading teams with empathy & energy
+🔗 **Portfolio:** [https://imamakainatportfolio.vercel.app/](https://imamakainatportfolio.vercel.app/)
 
 ---
 
-## 🛠️ Tech Stack
+# **Highlights**
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
-
----
-
-## 🚀 Currently Working On
-
-- 👁️‍🗨️ A **real-time interview proctoring app** (eye movement + face detection)
-- 🍲 A **Recipe Generator app** using AI + Firebase
-- 🧠 Training ML models for **crime pattern detection**
-- 🤖 GenAI tools to summarize meetings and suggest replies
+* Section Leader — *Stanford Code in Place 2025*
+* Global Winner — *Harvard CS50 Puzzle Day*
+* Team Lead Finalist — *NASA Space Apps Challenge*
+* Ambassador — *Google Women Techmakers*
+* Lead — *Google Developer Group on Campus*
+* Winner — *GPT-5 International Hackathon*
+* Best Project Award — *FemCodes Project Lab 2024*
+* Top 200 Worldwide — *MIT Programming Contest*
 
 ---
 
-## 🧩 Fun Facts
-
-- 🧭 I founded **Career Connect Society** to help students find direction
-- 🏁 I’m addicted to **hackathons** & high-pressure coding sprints
-- 📚 I learn by **doing**, not just reading
-- 🐍 I *really* think Python has a personality
-
----
-
-## 📬 Let’s Build Together!
-
-💡 Open Source | 🤝 AI Collabs | 🎓 Mentorship | 🚀 Startups  
-📫 [imamakainat9@gmail.com](mailto:imamakainat9@gmail.com)
-
----
-
-## 🌐 Find Me Online
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/imama-kainat/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" /></a>
-  <a href="https://www.youtube.com/@mamainataki" target="_blank"><img src="https://img.icons8.com/color/48/youtube-play.png" width="35" /></a>
-</p>
-
----
-
-## 📊 GitHub Stats
+# **Tech Stack**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imama-kainat&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imama-kainat&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imama-kainat&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,nodejs,express,mongodb,html,css,git,github,cpp,r&theme=light" />
 </p>
+
+---
+
+# **Featured Work**
+
+### **DoctorPath AI — Oncology Decision Support**
+
+Biomedical LLM + Graph-RAG system built with PyTorch, HuggingFace, and Neo4j for personalized cancer treatment support.
+
+### **Rebar Counter (Award Winning)**
+
+Computer vision pipeline that auto-counts rebars for an international client — awarded *Best Industry Project 2024*.
+
+### **MIT SuperCloud Analytics**
+
+Analyzed 2TB+ SLURM logs using Markov Chains, HMMs, and queueing theory; delivered a complete Streamlit GPU dashboard.
+
+### **Research Paper Analyzer**
+
+Automated NLP + embeddings pipeline that reduces research review time by 60%.
+
+### **Noor-Al-Eman App**
+
+Full MERN app with Qur’an reader, Ramadan tools, real-time chat, APIs, and 500+ hadiths/duas stored in MongoDB.
+
+---
+
+# **Leadership & Teaching**
+
+* Teaching Assistant at FAST — 200+ students
+* Generative AI Mentor (PEC) — 500+ participants
+* Founder, Career Connect Society — 1500+ students
+* Speaker at Google, Microsoft, GDG, MLSA
+* Instructor at ICodeGuru — taught 13,000+ students
+
+---
+
+# **GitHub Insights**
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Imama-Kainat&show_icons=true&theme=radical&title_color=C77DFF&icon_color=C77DFF" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Imama-Kainat&theme=radical&ring=C77DFF&currStreakLabel=C77DFF" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imama-Kainat&layout=compact&theme=radical&title_color=C77DFF" />
+</p>
+
+---
+
+# **Connect With Me**
+
+<p align="center">
+  <a href="https://imamakainatportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:imamakainat9@gmail.com"><img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/imama-kainat/"><img src="https://img.shields.io/badge/LinkedIn-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Imama-Kainat"><img src="https://img.shields.io/badge/GitHub-5A189A?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@mamainataki"><img src="https://img.shields.io/badge/YouTube-3C096C?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
+
+
+
+
