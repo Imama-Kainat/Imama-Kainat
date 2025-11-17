@@ -2,7 +2,10 @@
 
 # 🌌 **Imama Kainat — AI Engineer & Software Developer**
 
-### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • ML Engineer*
+### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • AI Engineer*
+<p align="center">
+  <img src="https://pin.it/18sQnMyFI" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1400&color=C77DFF&center=true&width=900&lines=Software+Engineer+%7C+AI%2FML+Developer;Stanford+Section+Leader+2025;Building+AI+that+Matters;Elegant+Code.+Real+Impact." />
@@ -66,21 +69,21 @@ MERN + 3 APIs + 500+ hadiths/duas with real-time chat, notifications & Islamic u
 
 # **Open Source Contributions**
 
-* Built ML, data annotation, and automation utilities used by student devs globally
-* Published open-source full-stack and Python projects for community learning
+* Built Data Analysis Python Library with  global team | DataHorse
+* Published open-source  projects for community learning
 * Released educational materials & starter kits on GitHub (Python, MERN, AI)
+* Contributed in Open Source Project peptide m/z calculator for Bio Researchers
 
-> *(If you want, I can add direct repo links + badges.)*
 
 ---
 
-# **Hackathon Journey**
+# **Hackathon AND Coding Journey**
 
-* 🏆 Winner — *GPT-5 International Hackathon*
+* 🏆 Winner — *GPT-5 International Hackathon | Best Industrial Project Award *
 * 🚀 Finalist — *NASA Space Apps Challenge*
 * ⚡ Participant — MIT, Meta Hacker Cup, UC Berkeley AI sprints
 * 💡 Built 10+ hackathon-ready AI/ML applications in rapid cycles
-* 👩‍💻 Mentored junior teams during local & international hackathons
+* 👩‍💻 Judge & Mentored junior teams during local & international hackathons
 
 ---
 
@@ -95,9 +98,9 @@ MERN + 3 APIs + 500+ hadiths/duas with real-time chat, notifications & Islamic u
 
 # **Mentoring & Teaching**
 
-* Teaching Assistant (FAST) — taught **200+ students**
-* Generative AI Mentor (PEC) — trained **500+ participants**
-* Instructor @ ICodeGuru — taught **13,000+ students**
+* Teaching Assistant (FAST) — CS Maths Courses**
+* Generative AI Mentor (PEC Pakistan Engineering Council) — trained **500+ participants**
+* Instructor @ ICodeGuru and Codem.PK**
 * Section Leader @ Stanford — mentored students from **11+ countries**
 * Designed coding challenges + problem-solving workshops
 
