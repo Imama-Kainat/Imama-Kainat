@@ -5,10 +5,11 @@
 ### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • AI Engineer*
 
 <p align="center">
-  <img src="/mnt/data/0b2f9c4f-e920-4a53-9f1a-39249820e045.png" 
-       style="width:100%; height:auto;" 
-       alt="GIF or Image"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFhNWx5M29xcGt4ZjZrMnk1eHBxZHNvOTI3NjkyZ3ExMnpuN2F2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lmba09hvuZgOVc0tg/giphy.gif" 
+       style="max-width:100; height:auto;" 
+       alt="Animated GIF"/>
 </p>
+
 
 
 ---
