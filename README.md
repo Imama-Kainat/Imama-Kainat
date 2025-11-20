@@ -4,7 +4,7 @@
 
 ### *Stanford Section Leader • WTM Ambassador • GDGoC Lead • AI Engineer*
 
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGpkYnl0ZGVpeDlkMjNudmY3c3Zqcm96cDF4YzRoa25qaHV0dWFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Laptop love gif" width="800"/> </p>
+<p align="center"> <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFhNWx5M29xcGt4ZjZrMnk1eHBxZHNvOTI3NjkyZ3ExMnpuN2F2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lmba09hvuZgOVc0tg/giphy.gif"/> </p>
 
 ---
 
