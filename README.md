@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzFhNWx5M29xcGt4ZjZrMnk1eHBxZHNvOTI3NjkyZ3ExMnpuN2F2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6lmba09hvuZgOVc0tg/giphy.gif" 
-       style="width:100; height:auto;" 
+       style="width:auto; height:auto;" 
        alt="Animated GIF"/>
 </p>
 
