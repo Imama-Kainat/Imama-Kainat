@@ -20,7 +20,7 @@
 # **About Me**
 
 I’m **Imama Kainat**, a Software Engineer focused on building systems that combine **AI engineering, research, and purposeful design**.
-I enjoy solving meaningful real-world problems through intelligent, scalable, and beautifully structured technology.
+I enjoy solving meaningful real-world problems through intelligent, scalable, and beautifully structured technology
 
 🔗 **Portfolio:** [https://imamakainatportfolio.vercel.app/](https://imamakainatportfolio.vercel.app/)
 
