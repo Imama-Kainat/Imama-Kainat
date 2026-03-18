@@ -1,6 +1,6 @@
 
 
-# 🌌 Imama Kainat | AI Engineer &  Softwae Developer 
+# 🌌 Imama Kainat | AI Engineer &  Software Developer 
 
 ### *Stanford Section Leader • WTM Ambassador   • GDGoC Lead  AI Engineer*
 
